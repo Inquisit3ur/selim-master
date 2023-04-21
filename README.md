@@ -8,7 +8,7 @@
 4. trouver des infos avec une ipv4
 
 # Installation:
-``git clone https://github.com/inquisit3ur/selim-master/``
+``git clone https://github.com/inquisit3ur/selim-master.git``
 
 ``cd selim-master``
 
