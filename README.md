@@ -14,7 +14,7 @@
 
 ``pip3 install requirements.txt``
 
-``python selim.py``
+``python inquisiteur.py``
 
 # About:
 1. Creer par inquisiteur & atsuho
